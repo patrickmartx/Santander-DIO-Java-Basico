@@ -1,3 +1,4 @@
+package edu.patrick.sintaxeJava.anatomiaClasses;
 public class MinhaClasseAula3 {
     public static void main(String[] args) {
         
